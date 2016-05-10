@@ -9,7 +9,7 @@ package newpackage;
  *
  * @author W7
  */
-public class ProstBroj {
+public class DaliProst {
     public static boolean prost (int n){
         for (int i=0;i<n;i++){
             if(n%i != 0){
